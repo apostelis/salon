@@ -1,0 +1,33 @@
+{
+  "properties": [
+    {
+      "name": "com.palogos.manning.salon.name",
+      "type": "java.lang.String",
+      "description": "Description for com.palogos.manning.salon.name."
+    },
+    {
+      "name": "com.palogos.manning.salon.address",
+      "type": "java.lang.String",
+      "description": "Description for com.palogos.manning.salon.address."
+    },
+    {
+      "name": "com.palogos.manning.salon.city",
+      "type": "java.lang.String",
+      "description": "Description for com.palogos.manning.salon.city."
+    },
+    {
+      "name": "com.palogos.manning.salon.state",
+      "type": "java.lang.String",
+      "description": "Description for com.palogos.manning.salon.state."
+    },
+    {
+      "name": "com.palogos.manning.salon.zipcode",
+      "type": "java.lang.String",
+      "description": "Description for com.palogos.manning.salon.zipcode."
+    },
+    {
+      "name": "com.palogos.manning.salon.phone",
+      "type": "java.lang.String",
+      "description": "Description for com.palogos.manning.salon.phone."
+    }
+  ] }
